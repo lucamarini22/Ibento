@@ -1,0 +1,1 @@
+Una nuova categoria è stata aggiunta per creare i tuoi eventi
