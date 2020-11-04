@@ -2,9 +2,9 @@
 
 Search your next event on Ibento!
 
-<center><img src="./src/main/resources/images/MainMenu.JPG"></center>
+<center><img src="./upload/IbentoHome.png"></center>
 <center>Main view</center>
 
 
-<center><img src="./src/main/resources/images/MainMenu.JPG"></center>
-<center>Main menu</center>
+<center><img src="./upload/IbentoEvents.png"></center>
+<center>Searching for events</center>
