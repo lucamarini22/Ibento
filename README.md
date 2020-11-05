@@ -10,4 +10,6 @@ Search your next event on Ibento!
 <center>Searching for events</center>
 
 
+### Team
+
 - [Simone Mattioli](https://github.com/SimoneMattioli98) 
