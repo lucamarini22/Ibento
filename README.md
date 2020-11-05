@@ -1,4 +1,4 @@
-# Ibento Event Website
+# Ibento - an event website
 
 Search your next event on Ibento!
 
