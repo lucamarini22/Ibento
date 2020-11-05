@@ -8,3 +8,6 @@ Search your next event on Ibento!
 
 <center><img src="./upload/IbentoEvents.png"></center>
 <center>Searching for events</center>
+
+
+- [Simone Mattioli](https://github.com/SimoneMattioli98) 
