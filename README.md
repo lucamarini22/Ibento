@@ -13,4 +13,5 @@ Search your next event on Ibento!
 ### Team
 
 - [Luca Marini](https://github.com/lucamarini22) 
-- [Simone Mattioli](https://github.com/SimoneMattioli98) 
+- [Simone Mattioli](https://github.com/SimoneMattioli98)
+- [Matteo Lucchi](https://github.com/MatteoLucchi1998)
